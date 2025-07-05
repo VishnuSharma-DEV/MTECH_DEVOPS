@@ -5,3 +5,4 @@ public class App {
         System.out.println("Hello, Jenkins CI!");
     }
 }
+System.out.println("CI working test!");
